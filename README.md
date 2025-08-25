@@ -1,13 +1,12 @@
 <h1 align="center">Hello friend 🤖, I'm Esteban</h1>
-<h3 align="center">An enthusiastic software developer</h3>
+<h3 align="center">Asoftware developer</h3>
 
 - 🌱 I’m currently learning **Cloud computing and AI**
 
 - 👯 I’m looking to collaborate on **Nvim Plugins, Artificial Intelligence, etc.**
 
-- 📫 How to reach me **estebancampoverdequito@gmail.com**
+- 📫 How to reach me **mrvimbot** on discord
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
